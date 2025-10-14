@@ -10,6 +10,20 @@ Solana market maker and volume bot (Solana trading bot) for creators who want re
 
 ---
 
+## Let's Connect!,
+
+<a href="mailto:fenrow325@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://t.me/github_a5" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="https://discord.com/users/fenrow_325" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+---
+
 ## Quick Start 
 1. Install Rust and Git on your computer.
 2. Copy this project to your machine.
@@ -183,6 +197,14 @@ Repository Description (suggested):
 - Engines: `src/engine/market_maker.rs` handles BUY/SELL loops with wallet rotation and randomization; `src/engine/random_trader.rs` offers a slower randomized variant.
 - DEX layer: `src/dex/` integrates Pump.fun and Raydium; selection controlled by `DEX` in `.env`.
 - Helpers: commands in `main` let you generate wallets, wrap/unwrap WSOL, distribute/collect SOL, and clean up accounts.
+
+---
+
+## 📞 Contact Information
+For questions, feedback, or collaboration opportunities, feel free to reach out:
+
+📱 **Telegram**: [@A5-](https://t.me/github_a5)  
+---
 
 
 
