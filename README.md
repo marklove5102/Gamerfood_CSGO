@@ -1,6 +1,6 @@
 ## Solana Volume Bot – Solana Market Maker 
 
-Solana market maker and volume bot (Solana trading bot) for creators who want realistic, organic‑looking activity. This automated liquidity engine and DEX volume bot orchestrates multi‑wallet trading and stealth trading across Pump.fun (Pump.fun bot) and Raydium CPMM/Launchpad (Raydium bot), using randomized trade timing, wallet rotation, liquidity simulation, and slippage‑aware swaps. With a simple, non‑technical setup, it can generate wallets, distribute funds, auto buy/sell, manage Solana WSOL, and push Telegram alerts — a practical token volume simulator for multi‑wallet trading campaigns.
+This project is solana marker maker & solana volume bot with a simple, non‑technical setup, it can generate wallets, distribute funds, auto buy/sell, manage Solana WSOL, and push Telegram alerts — a practical token volume simulator for multi‑wallet trading campaigns.
 
 ### Why this is useful
 - **Boost perceived activity**: Simulate realistic buy/sell flows and volume waves.
